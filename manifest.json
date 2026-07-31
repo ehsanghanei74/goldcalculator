@@ -1,0 +1,15 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "gold calculator",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "gold",
+  "start_url": "https://ehsanghanei74.github.io/goldcalculator/",
+  "theme_color": "#ffffff",
+  "prefer_related_applications": false,
+  "categories": [
+    "business"
+  ]
+}
